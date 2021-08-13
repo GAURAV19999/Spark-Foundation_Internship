@@ -26,3 +26,13 @@ Exploratory Data Analysis - Sports (Level - Advanced)
 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League'
 
 Dataset : https://bit.ly/34SRn3b
+
+Task 5
+
+Exploratory Data Analysis - Retail (Level - Beginner)
+Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+
+Dataset : https://bit.ly/3i4rbWl
+
+
+
